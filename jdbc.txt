@@ -1,0 +1,6 @@
+JDBC_URL
+jdbc:mysql://database-security.c1pwmodtmlfc.ap-southeast-2.rds.amazonaws.com:3306/security
+USERNAME
+admin
+PWD
+admin123
